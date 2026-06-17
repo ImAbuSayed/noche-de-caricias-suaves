@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-caricias-suaves/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Noche de caricias suaves](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-caricias-suaves/) |
+| **Get License** | [Get a Licensing Quote for Noche de caricias suaves](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-caricias-suaves/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche nos llama, apaga la luz
+> Nadie te toca en la sombra como lo hago yo, my truth
+> Adicta a mi cama, a este ritmo y mi actitud
+> Conmigo te olvidas del mundo, sube la inquietud
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
